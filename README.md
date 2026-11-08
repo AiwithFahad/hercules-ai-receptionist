@@ -6,7 +6,7 @@ An AI voice receptionist for **Hercules Detailing** (a car detailing business) t
 
 The voice layer is **ElevenLabs**; the brain is an **n8n AI Agent** (Tools Agent) powered by a **DeepSeek** chat model, with per-call memory and seven tool sub-workflows that read and write **Google Calendar** and **Google Sheets**.
 
-> 📹 **Demo video:** see [demo/VIDEO-LINK.md](demo/VIDEO-LINK.md) — the full walkthrough this documentation is based on.
+> 📹 **Demo video:** [Watch on LinkedIn](https://lnkd.in/p/dndJ3Rxi) — see [demo/VIDEO-LINK.md](demo/VIDEO-LINK.md) for the full walkthrough this documentation is based on.
 > ⚠️ This repository is a **documentation portfolio piece**. It is based solely on the demonstration video listed above. See [PROJECT-LIMITATIONS.md](PROJECT-LIMITATIONS.md) for exactly what is and is not verifiable.
 
 ---

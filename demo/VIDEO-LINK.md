@@ -2,7 +2,7 @@
 
 ## Video Link
 
-> 🎬 **Demo video:** _[Placeholder — add the public video URL here (YouTube / Loom / Google Drive) once uploaded.]_
+> 🎬 **Demo video:** [Watch on LinkedIn](https://lnkd.in/p/dndJ3Rxi)
 >
 > Suggested title when publishing: **"Hercules AI Receptionist — ElevenLabs Voice Agent + n8n AI Agent + Google Calendar & Sheets"**
 
